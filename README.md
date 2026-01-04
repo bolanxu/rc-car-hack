@@ -1,2 +1,2 @@
 # rc-car-hack
-Code and files for a RC car I hacked to make for it a remote
+Code and files for a RC car I hacked to a remote for it
